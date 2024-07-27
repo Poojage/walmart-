@@ -39,6 +39,7 @@ are used to replace, missing or NULL values.
 are filtered out.
 
 2) Feature Engineering: This will help use generate some new columns from existing ones.
+
  1.Add a new column named time_of_day to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day 
    most sales are made.
  2.Add a new column named day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will 
@@ -52,10 +53,15 @@ are filtered out.
 
 Business Questions To Answer
 Generic Question
+
 1.How many unique cities does the data have?
+
 2.In which city is each branch?
+
 Product
+
 How many unique product lines does the data have?
+
 What is the most common payment method?
 What is the most selling product line?
 What is the total revenue by month?
