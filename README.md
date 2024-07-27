@@ -12,15 +12,18 @@ selected holiday markdown events are included in the dataset. These markdowns ar
 which departments are affected and the extent of the impact." source
 
 Purposes Of The Project
+
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
 About Data
+
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart,
 respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows
 
 
 
 Analysis List
+
 Product Analysis
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
